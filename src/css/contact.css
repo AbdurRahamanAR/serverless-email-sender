@@ -1,0 +1,28 @@
+form input, 
+form textarea {
+  display: block;
+  margin-top: 15px;
+  border: 2px solid gray;
+  width: 100%;
+  padding: 10px;
+}
+
+form input {
+  height: 50px;
+}
+
+form textarea {
+  height: 70px;
+}
+
+button[type="submit"] {
+  width: 100px;
+  height: 45px;
+  margin-top: 15px;
+  box-sizing: none;
+  border: 2px solid green;
+  font-weight: bold;
+  font-weight: #ffffff;
+  cursor: pointer;
+}
+
